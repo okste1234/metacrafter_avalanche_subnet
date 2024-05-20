@@ -1,7 +1,7 @@
 # Avalanche Subnets Project
 
 ## Overview - Defi Empire, A Simple DeFI Kingdom Clone
-Creating an EVM-Subnet on Avalanche Overview This project establishes an EVM Subnet on the Avalanche network named "mySubnet" featuring its native token, MYSUBNET. The network seamlessly integrates with MetaMask, enabling the deployment and interaction with smart contracts through the injected provider on Remix.
+Creating an EVM-Subnet on Avalanche Overview This project establishes an EVM Subnet on the Avalanche network named "mySubnet" featuring its native token, SUB. The network seamlessly integrates with MetaMask, enabling the deployment and interaction with smart contracts through the injected provider on Remix.
 
 ## Project Features
  MYSUBNET Token
@@ -33,9 +33,9 @@ Interact with the deployed contract through transactions like transfers, minting
 ## Author
 
 - Adekunle Stephen O. 
-- Twitter: @Okste1234 
+- Twitter: @Okste1234(`https://twitter.com/okste1234`) 
 
 
 ## Video-link
 
-Video walk through can be found at: https://www.loom.com/share/5c8a17d12fef4a2ea670accd49c49f62?sid=6ec0e064-d68a-4d74-8143-35aeea7cdd15
+Video walk through can be found at: https://www.loom.com/share/929e2fb3c77d42989a835d0914b70e27?sid=b14b1e41-93ff-406b-889c-82b6f3e97a34
