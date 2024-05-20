@@ -1,0 +1,41 @@
+# Avalanche Subnets Project
+
+## Overview - Defi Empire, A Simple DeFI Kingdom Clone
+Creating an EVM-Subnet on Avalanche Overview This project establishes an EVM Subnet on the Avalanche network named "mySubnet" featuring its native token, MYSUBNET. The network seamlessly integrates with MetaMask, enabling the deployment and interaction with smart contracts through the injected provider on Remix.
+
+## Project Features
+ MYSUBNET Token
+Minting new tokens: The platform should be able to create new tokens and distribute them to players as rewards. Only the owner can mint tokens.
+
+Transferring tokens: Players should be able to transfer their tokens to others.
+
+Redeeming tokens: Players should be able to redeem their tokens for items in the in-game store.
+
+Checking token balance: Players should be able to check their token balance at any time.
+
+Burning tokens: Anyone should be able to burn tokens, that they own, that are no longer needed.
+
+The Vault contract
+This is a simple contract to enable users get donations from one or more donors. A time lock is set and users can only claim after the lock time is expired.
+Getting Started
+Follow these steps to get the project up and running on your local machine.
+
+## Prerequisites
+
+Node.js and npm installed on your machine.
+Clone the repository using the command - git clone https://github.com/username/projectname.git
+Change directory into your project file - cd projectname
+Install all dependencies with - npm install
+Compile the contract using Hardhat - npx hardhat compile
+Run deployment script- npx hardhat run scripts/deploy.js
+Interact with the deployed contract through transactions like transfers, minting, and burning.
+
+## Author
+
+- Adekunle Stephen O. 
+- Twitter: @Okste1234 
+
+
+## Video-link
+
+Video walk through can be found at: https://www.loom.com/share/5c8a17d12fef4a2ea670accd49c49f62?sid=6ec0e064-d68a-4d74-8143-35aeea7cdd15
