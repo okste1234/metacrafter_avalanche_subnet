@@ -33,7 +33,7 @@ Interact with the deployed contract through transactions like transfers, minting
 ## Author
 
 - Adekunle Stephen O. 
-- Twitter: [@Okste1234](`https://twitter.com/okste1234`) 
+- Twitter: [@Okste1234](https://twitter.com/okste1234) 
 
 
 ## Video-link
