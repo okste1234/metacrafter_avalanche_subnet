@@ -6,7 +6,7 @@ contract ERC20 {
     mapping(address => uint) public balanceOf;
     mapping(address => mapping(address => uint)) public allowance;
     string public name = "Subnet ERC20";
-    string public symbol = "MYSUBNET";
+    string public symbol = "SUB";
     uint8 public decimals = 18;
 
     event Transfer(address indexed from, address indexed to, uint value);
